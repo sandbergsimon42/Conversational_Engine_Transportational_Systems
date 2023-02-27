@@ -1,0 +1,395 @@
+ENTITY:["VTS oxelösund", "svartö", "Svarte", "VTS TVÅ TUSEN", "Godafors", "stillmover", "White Force Queen"]
+GPE:["Norrköping]
+IPL:["vinterklasen", "Kärnkan"]
+TOPIC:["outbound"] 
+Incoming:VTS oxelösund svartö.
+Outgoing:Svarte VTS TVÅ TUSEN.
+Incoming:anchorage away close of vinterklasen outbound for sea no pilot required.
+Outgoing:Svarte anchor away proceeding outbound for sea. You have outbound vessle Godafors approaching vinterklasen and inbound vessle Stillmover at kränkan sändöhook (sandihook) in korphålet.
+Incoming:It's okey well understood thank you.
+Outgoing:Then you have inbound vessle White Force Queen inbound kränkan.
+Incoming:White Force Queen inbound approaching kränkan.
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ENTITY:["VTS oxelösund", "Gerberton", "Stillmover", "White Force Queen"]
+GPE:["Oxelösund", "Norrköping"]
+IPL:["kränkan"]
+TOPIC:["outbound"] 
+Incoming:VTS oxelösund gerberton kom.
+Outgoing:Gerberton VTS oxelösund.
+Incoming:Pilot onboard anchor away and we proceeding out at sea.
+Outgoing:Gerberton anchor away and proceeding outbound for sea. You have inbound vessle Stillmover kränkan inbound for oxelösund. White Force Queen aproaching kränkan inbound for Norrköping.
+Incoming:Two ships inbound okej tack.
+$$$$$$$$$$$$$$$$$$$$$$$
+ENTITY:["Godafoss", "VTS oxelösund", "Svarte", "Gerberton", "Sandihook", "Stillmover", "White Force Queen"]
+GPE:["Oxelösund", "Norrköping"]
+IPL:["vinterklasen","steel factory", "kränkan"]
+TOPIC:["traffic information"] 
+Outgoing:Godafoss VTS oxelösund.
+Incoming:Godafoss VTS replying.
+Outgoing:Yes I can see you have passed vinterklasen you have vessel Svarte outbound has just hear that anchoring proceeding to sea. Gerberton has also hit that anchor proceeding out. You have Sandihook in karpoled bound for steel factory. Stillmover at kränkan inbound for oxelösund and White Force Queen aproaching kränkan from Norrköping.
+Incoming:eeeh okey VTS two outbound and one crossing the fairway and two inbound thank you for information.
+Outgoing:Thank you.
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+ENTITY:["VTS oxelösund", "Heleneck"]
+GPE:[]
+IPL:["SSAB"]
+TOPIC:["traffic information"] 
+Incoming:VTS oxelösund Heleneck.
+Outgoing:Heleneck VTS oxelösund.
+Incoming:Heleneck alongside SSAB ki.
+Outgoing:Heleneck alongside SSAB thank you.
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ENTITY:["Sweeper", "VTS oxelösund", "mont rose"]
+GPE:[]
+IPL:[]
+TOPIC:["traffic information"] 
+Outgoing:Sweeper VTS oxelösund.
+Incoming:Sweeper replying.
+Outgoing:Question are you aware of eh the anchored vessle mont rose in you heading.
+Incoming:Yes VTS sorry we should have told you we are bound for mont rose for hall cleaning.
+Outgoing:Okey Sweeper that is understood thank you.
+$$$$$$$$$$
+ENTITY:["VTS Göteborg", "Brendan", "Octavius", "alvin"]
+GPE:[]
+IPL:["eight one two", "north channel", "south channel", "skaneborg", "jävleskärr"]
+TOPIC:["inbound"] 
+Incoming:VTS Göteborg Brendan.
+Outgoing:Brendan VTS Göteborg.
+Incoming:passing (?) reporting for one inbound for eight one two.
+Outgoing:Brendan number 1 inbound for eight one two. Question will you use the south or north channel?
+Incoming:eeehh we will use the south.
+Outgoing:You will use the south thats understood. Traffic information we have two outbound vessels in the north chanel at ?? and skaneborg and also two outbound vessel in the south first one is octavius att jävleskärr followed by alvin.
+Incoming:eeeh thats well understood thank you.
+$$$$$$$$$$
+ENTITY:["Willy", "VTS Göteborg"]
+GPE:[]
+IPL:[]
+TOPIC:["traffic information"] 
+Outgoing:Willy VTS Göteborg.
+Incoming:VTS Göteborg Willy.
+Outgoing:Yes Willy information according to my equipment on your current heading you have shallow waters ahead of you, safe water west so please come more to westerly course.
+Incoming:Ok we will check our position.
+$$$$$$$$$$
+ENTITY:["MS sill lennart mer", "VTS Göteborg", "spaneborg"]
+GPE:[]
+IPL:["trubaruden"]
+TOPIC:["traffic information"] 
+Outgoing:MS sill Lennart mer VTS Göteborg.
+Incoming:MS sill Lennart mer replying.
+Outgoing:yes information MS sill Lennart you have the spaneborg outbound in the fairway and she intent to go south of the trubaruden light and then for the west.
+Incoming:Ja ok V T S we are about to pick up pilot.
+$$$$$$$$$$
+ENTITY:["MS sill lennart mer", "VTS Göteborg", "spaneborg"]
+GPE:[]
+IPL:[]
+TOPIC:["traffic information"]
+Outgoing: MS sill Lennart mer VTS Göteborg.
+Incoming: SVT speaking to the pilot.
+Outgoing: MS sill Lennart mer i advice you to contact the pilot outbound vessel spaneborg on how you should meet.
+Incoming (bytte kontaktdialog till spanerborg): Ok Spaneborg Spaneborg MS sill Lennart mer.
+$$$$$$$$$$
+ENTITY:["Spaneborg", "VTS Göteborg", "MS sill Lennart mer"]
+GPE:[]
+IPL:["trubaduren"]
+TOPIC:["traffic information"]
+Outgoing: Spaneborg VTS Göteborg.
+Incoming: Spaneborg.
+Outgoing: Yes i heard that you are going north of trubaduren out as you can see MS sill Lennart mer is speaking pilot as we speak so you have safe water on west of you so you can proceed more for the west and give space for MS sill Lennart mer.
+Incoming: Yes very good VTS we are turning to starboard and then we go to 9 0 degrees so we are coming to west.
+Outgoing: Your coming to west now thank you for information.
+$$$$$$$$$$
+ENTITY:["Octavius", "VTS Göteborg", "MS Sill Lennart mer"]
+GPE:[]
+IPL:["trubaduren", "gammla gumman boj"]
+TOPIC:[] 
+Outgoing:Octavius VTS Göteborg.
+Incoming:Octavius.
+Outgoing: Traffic update Octavius south of trubaduren you have MS Sill Lennart mer receiving pilot and now on a westerly course due to the swell and later on she will proceed inbound so my question is will you go south or north of the gammla gumman boj.
+Incoming: We go between gamla gumman and trubaduren .
+Outgoing: Between gamla gumman and trubaduren. That’s understood.
+$$$$$$$$$$
+ENTITY:["MS sill Lennart mer","VTS Göteborg", "Lennart mer", "octavius"]
+GPE:[]
+IPL:["ekafärsbodan", "gumman", "trubaduren"]
+TOPIC:["traffic information"]
+Outgoing: MS sill Lennart mer VTS Göteborg.
+Incoming: Lennart mer.
+Outgoing: yes You have octavius outbound at ekafärsbodan she will proceed for the west between gumman and trubaduren my question to you is will you proceed south of trubaduren.
+Incoming: Ok thank you VTS pilot is just coming on board and we are coming to starboard now.
+Outgoing: You are coming to starboard and proceeding in for the fairway thats understood.
+$$$$$$$$$$
+ENTITY:["VTS Göteborg", "alvin", "Station", "octavius", "brendan"]
+GPE:[]
+IPL:["rivefjorden", "south channel"]
+TOPIC:["outbound"] 
+Incoming: VTS Göteborg alvin.
+Outgoing: Station calling  VTS Göteborg.
+Incoming: VTS Göteborg alvin calling.
+Outgoing: Alvin VTS Göteborg good evening.
+Incoming: Good evening we have the anchor away at rivefjorden outbound south channel and to the west.
+Outgoing: anchor away at rivefjorden outbound via south channel and to the west, you have outbound vessel octavius which just entering the south channel inbound we have brendan has passed has taken pilot and is heading for the south channel .
+Incoming: Octavius outbound and brendan inbound ok thank you.
+$$$$$$$$$$
+ENTITY:["Octavius", "VTS Göteborg", "Alvin"]
+GPE:[]
+IPL:["riverfjärden", "southern channel"]
+TOPIC:["traffic information"] 
+Outgoing: Octavius VTS Göteborg.
+Incoming:Octavius replying.
+Outgoing:Yes traffic information Alvin has anchor away at riverfjärden outbound via southern channel .
+Incoming:Ok VTS Gothenburg Alvin is about to enter the south channel outbound I think that we will be ahead of them but thank you.
+$$$$$$$$$$
+ENTITY:["VTS Oxelosund", "shall de gaulle", "shackelton", "HMS Karlskrona"]
+GPE:["norrköping"]
+IPL:["reporting point number four"]
+TOPIC:["inbound"] 
+Incoming:VTS Oxelosund shall de gaulle.
+Outgoing:shall de gaulle VTS Göteborg VTS Oxelosund  .
+Incoming:eh yes we are passing reporting point number fourtytwo inbound to .
+Outgoing:number fortytwo inbound to norrköping ahead of you shackelton inbound for norrköping. HMS Karlskrona is proceeding to the south.
+Incoming:  okey, thank you well understood.
+$$$$$$$$$$
+ENTITY:["baltic explorations", "VTS Oxelösund"]
+GPE:["norrköping"]
+IPL:[]
+TOPIC:["inbound", "pilot required" ] 
+Incoming:VTS Oxelösund baltic explorations.
+Outgoing:baltic explorations VTS Oxelösund .
+Incoming:yeah we entering your area and we are about to pick up pilot for inbound for norrköping. 
+Outgoing:baltic explorations entering the VTS area you will pick up the pilot and your destination is norrköping. no reported outbound traffic for you.
+Incoming:no reported traffic thank you.
+Outgoing:thank you .
+$$$$$$$$$$
+ENTITY:["VTS Oxelösund", "salts bergverk"]
+GPE:[]
+IPL:["oxelösund birth ten", "oxelösund birth number ten"]
+TOPIC:["traffic information"] 
+Incoming:VTS Oxelösund salts bergverk.
+Outgoing:salts bergverk VTS Oxelösund .
+Incoming:eh we alongside at oxelösund birth ten.
+Outgoing:salts bergverk alongside oxelösund birth number ten thank you.
+Incoming:danke.
+$$$$$$$$$$
+ENTITY:["shackleton", "VTS Oxelösund", "Karlskrona", "shall de gaulle", "HMS karlskrona"]
+GPE:["norrköping"]
+IPL:["klasgrunden ", "reporting point fortytwo"]
+TOPIC:["inbound"]
+Incoming:VTS Oxelösund shackleton.
+Outgoing:shackleton VTS Oxelösund.
+Incoming:yes we are finished with our work at klasgrunden and we will proceed inwords to norrköping .
+Outgoing:shackleton finished work at klasgrunden and you are proceeding into norrköping now. question are your intended route via the northern or the southern fairway? 
+Incoming:we will use the northern fairway .
+Outgoing: shackleton inbound via the northern fairway some traffic information for you. warship karlskrona in the area north of the northern fairway on a sightseeing cruise with eventually destination norrköping. shall de gaulle soon approaching reporting point fortytwo also inbound for norrköping. over
+Incoming:okey, HMS karlskrona from the north and one through passing fortytwo thank you.
+Outgoing:thank you.
+$$$$$$$$$$
+ENTITY:["VTS Oxelösund", "HMS Karlskrona" ,"HMS karlskrona", "shackelton"]
+GPE:["norrköping"]
+IPL:["klasgrunden", "northern fairway"]
+TOPIC:["traffic information"]
+Outgoing:HMS karlskrona VTS Oxelösund.
+Incoming:VTS Oxelösund HMS karlskrona.
+Outgoing: HMS karlskrona VTS Oxelösund question you intention to join the main fairway the northern fairway and proceed into norrköping is that correct or.
+Incoming:VTS Oxelösund negative sir we will cross the northern fairway and continue southbound .
+Outgoing: HMS Karlskrona intending to cross the northern fairway and proceed to the south. okey information smaller workboat shackleton has left klasgrunden red buoy and is inbound for norrköping in the northern fairway over.
+Incoming: eh okey inbound shackelton for norrköping in the northern channel thank you.
+Outgoing: thank you.
+$$$$$$$$$$
+ENTITY:["shall de gaulle", "VTS Oxelösund"]
+GPE:["norrköping"]
+IPL:["reporting point number four two", "reporting point number fortytwo"]
+TOPIC:["inbound"] 
+Incoming:VTS Oxelösund shall de gaulle.
+Outgoing:shall de gaulle VTS Oxelösund.
+Incoming:ah yes eh we are passing reporting point number four two inbound to norrköping .
+Outgoing: shall de gaulle passing reporting point number fortytwo and you are inbound for norrköping. question intended route via the northern or the southern fairway over.
+Incoming:VTS Oxelösund yes we will use the northern fairway.
+Outgoing: shall de gaulle inbound via the northern fairway no reported outbound .
+Incoming: no reported outbound traffic thank you very much .
+Outgoing: thank you.
+$$$$$$$$$$
+ENTITY: ["shackelton", "VTS Oxelösund", "HMS karlskrona"]
+GPE: []
+IPL: []
+TOPIC: ["traffic information"] 
+Outgoing:VTS Oxelösund shackelton.
+Incoming:shackelton VTS Oxelösund .
+Outgoing:so i overheard your conversation with HMS karlskrona earlier and please confirm that you intend to pass the stern of HMS karlskrona over.
+Incoming: ah yes we will pass stern of her thank you .
+Outgoing: okey thank you .
+$$$$$$$$$$
+ENTITY: ["VTS Göteborg", "Neptunus", "stena danica", "shetland cement", "stena primorsk", "stena"]
+GPE: ["skarvik"]
+IPL: ["skarvikshamnen", "knippholmen", "south channel", "torshamnen"]
+TOPIC: ["inbound"] 
+Incoming:VTS Gothenburg Neptunus calling.
+Outgoing:Neptunus VTS Göteborg.
+Incoming:i am passing reporting point number one now and i am inbound for skarvikshamnen.
+Outgoing:number one inbound south channel for skarvik. outbounded traffic stena danica at knippholmen using south channel followed by shetland cement they are now passing the bridge with going rivesouth for anchoring and closing up to torshamnen stena primorsk will be going alongside the red torshamn. 
+Incoming: VTS Gothenburg Neptunus all traffic information well received and stena using the south channel thank you.
+$$$$$$$$$$
+ENTITY: ["Sahara sand", "VTS Gothenburg", "VTS Göteborg", "atlantic conveyor", "stena danica"]
+GPE: ["gothenburg", ]
+IPL: ["charley anchorage"]
+TOPIC: ["inbound"] 
+Incoming:VTS Gothenburg Sahara sand.
+Outgoing:Sahara sand VTS Göteborg good afternoon.
+Incoming:good afternoon i am now entering the VTS area and i am bound for the charley anchorage.
+Outgoing:Sahara sand entering the area from the west and proceeding to charley anchorage. traffic information ahead of you atlantic conveyor picking up pilot for Gothenburg and outbound stena danica leading gothenburg and will be going to the south.
+Incoming:VTS Gothenburg Sahara sand well received atlantic conveyor inbound and stena danica northbound thank you.
+$$$$$$$$$$
+ENTITY:["VTS Gothenburg", "Green conveyor", "Atlantic conveyor", "Toronto"]
+GPE:["Gothenburg"]
+IPL:["anchorage area Bravo", "charley anchorage"]
+TOPIC:["outbound"]
+Incoming:VTS Gothenburg VTS Gothenburg Green conveyor .
+Outgoing:Green conveyor VTS Gothenburg .
+Incoming:Yes we are about to leave our anchorage at charley anchorage and proceeding to the south. 
+Outgoing:Green conveyor about to leave from anchorage at charley and outbound to the south. Information atlantic conveyor inbound from west for paddleboarding and Gothenburg later on. One vessel at anchor in anchorage area Bravo south of you name is Toronto. Over.
+Incoming:Okey, one anchor away south of me. thank you. 
+Outgoing:thank you.
+$$$$$$$$$$
+ENTITY:["Stena danica", "VTS Gothenburg", "Stena primorsk", "Atlantic conveyor", "Neptunus"]
+GPE:["Torshamn"]
+IPL:["reporting point number one", "reporting number point three", "north channel", "south channel"]
+TOPIC:["traffic information"]
+Outgoing:Stena danica VTS Gothenburg.
+Incoming:Stena danica. 
+Outgoing:Stena danica VTS Gothenburg according to my equipment for you have passed reporting point number one outbound. Question intended route to the north channel or south channel? over.
+Incoming:ahh okey sorry VTS Gothenburg yes reporting point number three and yes south channel.
+Outgoing:Reporting number three it is southbound and via the south channel okey, some traffic information. Stena primorsk towards the end of the north channel inbound for torshamn of course currently sussed by one tugboat. Neptunus approaching reporting point number one inbound for gothenburg intended route not known at this point. Atlantic conveyor from west will pick up the pilot and then proceed into gothenburg later on. over.
+Incoming:okey stena inbound vessel Neptunus and also later on Atlantic conveyor thank you very much.
+Outgoing:thank you.
+$$$$$$$$$$
+ENTITY:["Neptunus", "VTS Gothenburg", "Stena danica", "Shetland cement", ]
+GPE:["klarvikshamnen"]
+IPL:["reporting point number one", "north channel", "south channel"]
+TOPIC:["inbound"]
+Incoming:VTS Gothenburg Neptunus.
+Outgoing:Neptunus VTS Gothenburg.
+Incoming:Yes, passing reporting point number one and inbound to klarvikshamnen.
+Outgoing:Neptunus reporting point number one you are inbound for klarvikshamnen and question you intended route via north or south channel over.
+Incoming:south channel.
+Outgoing:Neptunus inbound via south channel traffic information stena danica has passed reporting point number three and is soutbound via the south channel. Shetland cement following about ten minutes away from reporting point number three. over.
+Incoming:okey well understood thank you.
+Outgoing:thank you.
+$$$$$$$$$$
+ENTITY:["VTS Gothenburg","Stena danica", "Neptunus"]
+GPE:[]
+IPL:["reporting point number one", "south channel"]
+TOPIC:["traffic information"]
+Outgoing:Stena danica VTS Gothenburg.
+Incoming:Stena danica replying .
+Outgoing:Stena danica VTS just to confirm Neptunus reporting point number one and inbound via the south channel over.
+Incoming:Neptunus inbound south channel okey thank you.
+Outgoing:thank you.
+$$$$$$$$$$
+ENTITY:["VTS Gothenburg","Toronto"]
+GPE:[]
+IPL:[]
+TOPIC:["traffic information"]
+Outgoing:Toronto VTS Gothenburg.
+Incoming:Toronto replying.
+Outgoing:Toronto VTS Gothenburg according to my equipment you are making some speed.question are you dragging anchor or are you under way?
+Incoming:ah okey sorry we have problem with the wind mast no problem we fixed the problem no assistance required .
+Outgoing:okey wind mast problems no assistance required no okey thank you.
+Incoming:thank you.
+$$$$$$$$$$
+ENTITY:["VTS Gothenburg","Sahara sand", "Stena danica", "Shetland cement", "ming"]
+GPE:[]
+IPL:["charley anchorage", "reporting point number three"]
+TOPIC:["inbound"]
+Incoming:VTS Gothenburg Sahara sand.
+Outgoing:Sahara sand VTS Gothenburg .
+Incoming:Yes grand sir we are just entering your area and heading towards charley anchorage.
+Outgoing:Sahara sand good afternoon you are entering the VTS area now can see you coming from west and you are bound for charley anchorage. that is well recieved. traffic information two ships outbound for sea. Stena danica has passed reporting point number three and Shetland cement soon approaching number three. One other vessel at anchor in charley name is ming and call again please just before you are ready to draw your anchor. over.
+Incoming:VTS Gothenburg well understood we will call you again when we are to drop anchor.
+Outgoing:thank you .
+$$$$$$$$$$
+ENTITY:["VTS Gothenburg","Atlantic conveyor", "stena danica"]
+GPE:[]
+IPL:["scandia hamnen","north channel", "south channel", "reporting point number"]
+TOPIC:["inbound"]
+Incoming:VTS Gothenburg Atlantic conveyor.
+Outgoing:Atlantic conveyor VTS Gothenburg.
+Incoming:yes and we have picked up pilot and he is onboard we will proceed to scandia hamnen via the north channel later on .
+Outgoing:Atlantic conveyor VTS Gothenburg pilot onboard you are inbound for scandia hamnen and later on via the north channel. information outbound traffic stena danica in the south channel and shetland cement approaching reporting point number three both outbound for sea. over.
+Incoming:Stena danica and shetland cement thank you .
+Outgoing:thank you.
+$$$$$$$$$$
+ENTITY:["VTS Oxelosund","South sper verk"]
+GPE:["oxelosund"]
+IPL:[]
+TOPIC: ["traffic information"]
+Incoming:VTS Oxelosund South sper verk.
+Outgoing:South sper verk VTS Oxelosund.
+Incoming:Via northside at oxelosund.
+Outgoing:alongside at oxelosund.
+Incoming:Danke.
+$$$$$$$$$$
+ENTITY:["VTS Oxelosund", "shackleton", "shall de gaulle", "HMS Karlskrona", "VTS Göteborg"]
+GPE:["norrköping"]
+IPL:["klasgrunden"]
+TOPIC:["inbound"]
+Incoming:VTS Oxelosund shackleton.
+Outgoing:shackleton VTS Göteborg.
+Incoming:your information we are ready with our work at klasgrunden and we will proceed into norrköping again.
+Outgoing:shackleton you will be leaving klasgrunden and in for norrköping. inbound approaching reportafort fortytwo is shall de gaulle for norrköping and to the west of you to the north of the fairway HMS Karlskrona is making a roundtrip. 
+Incoming:Shall de gaulle inbound and HMS Karlskrona okey.
+$$$$$$$$$$
+ENTITY:["VTS Göteborg","HMS Karlskrona", "shackleton", "VTS Oxelosund"]
+GPE:["norrköping"]
+IPL:[]
+TOPIC:["traffic information"]
+Outgoing:HMS Karlskrona VTS Göteborg.
+Incoming:VTS Göteborg HMS Karlskrona.
+Outgoing:Information shackleton on your port side is inbound for norrköping and question are you proceeding to the south or are you joining in the fairway?
+Incoming:VTS Oxelosund HMS Karlskrona yes we will cross the fairway and continue southbound we see shackleton. thank you.
+Outgoing:you will be crossing the fairway to the south thank you .
+Outgoing:Schakleton did you receive that information?
+Incoming:VTS Oxelosund shackleton yes we heard HMS Karlskrona and we can see.
+Outgoing:okey so question are you going eastern of them?
+Incoming:yes we will follow the the rules of the road and go eastern of them .
+Outgoing:you will follow you will go eastern of them thank you .
+$$$$$$$$$$
+ENTITY:["VTS Gothenburg", "Weet fead", "Skagen", "Spaneborg"]
+GPE:[]
+IPL:[]
+TOPIC:["traffic information"]
+Incoming:Weet fead VTS Göteborg.
+Outgoing:Weet fead replying.
+Incoming:traffic information you have up on side Skagen is being overtaken by spaneborg and spaneborg is going on skagens port side.
+Incoming:Ok VTS spaneborg spagenborg overtaking skagen well recieved. We will reduce our speed and keep the green side of the fairway so we will meet them port to port. 
+Outgoing:Thank you.
+$$$$$$$$$$
+ENTITY:["VTS Gothenburg", "Weet fead"]
+GPE:[]
+IPL:[]
+TOPIC:["traffic information"]
+Outgoing:Weet fead VTS Göteborg.
+Incoming:Weet fead replying.
+Outgoing:According to my equipment you are still heading for the red side of the fairway.
+Incoming:yeah ok VTS that is recieved but we are coming to starboard now we are coming to starboard now.
+Outgoing:Ok thank you.
+$$$$$$$$$$
+ENTITY:["VTS Gothenburg", "Brendan","Octavius","Skagen","skaneborg","Alvi"]
+GPE:["port one, lindefjärd"]
+IPL:["southern channel", "northern channel"]
+TOPIC:["inbound"] 
+Incoming:VTS Göteborg Brendan.
+Outgoing:Brendan VTS Götebörg.
+Incoming:Passing reporting point once inbound for in port one two.
+Outgoing:Brendan passing in port one inbound for vet du vad you have outbound vessel Octavius in the southern channel, and you have outbound vessel Skagen and skaneborg in the northern channel.
+Incoming:Ok thats understood.
+Outgoing:Correction you have two outbound vessels in the southern channel Octavius and Alvi is soon entering the fairway from lindefjärd.
+Incoming:Octavius and Alvi from lindefjärd ok.
+$$$$$$$$$$
+ENTITIY:["Octavius","VTS Göteborg", "Brendan"]
+GPE:[]
+IPL:["southern channel", "port one"]
+TOPIC:["traffic information"] 
+Outgoing:Octavius VTS Göteborg.
+Incoming:Octavius.
+Outgoing:Traffic information you have inbound vessel brendan reporting port one inbound via the southern channel .
+Incoming:Brendan at reporting port one southern channel thank you for information.
+$$$$$$$$$$

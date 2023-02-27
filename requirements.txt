@@ -1,0 +1,8 @@
+jupyter-client==6.1.12
+jupyter-core==4.7.1
+spacy==3.0.5
+spacy-legacy==3.0.1
+matplotlib==3.4.1
+emora-stdm==1.95
+#deepspeech==0.9.3
+#pandas==1.2.3
